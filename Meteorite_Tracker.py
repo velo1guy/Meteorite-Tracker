@@ -1,5 +1,3 @@
-# North Seattle College, CSC 110
-# Week 8 PA
 # Author: Elliot Duncan
 # Email: elliot.duncan@seattleschools.org
 
